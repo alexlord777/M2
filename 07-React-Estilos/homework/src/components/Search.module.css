@@ -1,0 +1,18 @@
+.boton{
+    float: left;
+    margin-left: 20px;
+}
+
+.boton button{
+    background: #000;
+    color: rgb(35, 223, 35);
+    border: 2px solid rgb(35, 223, 35);
+    margin-left: 3px;
+}
+
+.caja{
+    border: 1px solid #000;
+    padding: 10px;
+    border-radius: 10px;
+    background: #000;
+}
